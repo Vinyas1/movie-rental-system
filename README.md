@@ -2,6 +2,7 @@
 # 🎬 Movie Streaming Access Platform 
 
 NOTE :(Beginer level without API calls and no complex backend integration)
+
 A **Flask + MySQL web application** where users can register, log in, and watch movies that are unlocked by an administrator.
 The admin panel allows granting movie access and viewing analytics charts of user activity and payments.
 
