@@ -174,6 +174,6 @@ Admin charts include:
 
 Payments can be processed using razorpay and sending Recipt in the dashboard that is sent to the admin
 
-```
+
 
 
