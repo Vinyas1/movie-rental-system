@@ -159,7 +159,7 @@ Admin can:
 
 ---
 
-# 📊 Analytics Dashboard
+# 📊 Analytics Dashboard:
 
 Admin charts include::
 
