@@ -170,7 +170,8 @@ Admin charts include::
 * Payment statistics
 ---
 
-# 💳 Payment Logging
+# 💳 Payment Logging:
+
 
 Payments can be processed using razorpay and sending Recipt in the dashboard that is sent to the admin
 
