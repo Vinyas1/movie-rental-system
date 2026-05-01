@@ -38,7 +38,7 @@ Admin dashboards generate charts using:
 * **Pandas**
 ---
 
-# 🧰 Tech Stack
+# 🧰 Tech Stack:
 
 **Backend**
 
