@@ -161,7 +161,7 @@ Admin can:
 
 # 📊 Analytics Dashboard
 
-Admin charts include:
+Admin charts include::
 
 * Movies accessed per user
 * Users per movie
